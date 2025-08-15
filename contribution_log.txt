@@ -1,3 +1,4 @@
 # Contribution Booster Activity Log
 [2025-08-08T21:18:32] style: clean up layout alignments and margin spacing
 [2025-08-11T11:09:48] style: clean up layout alignments and margin spacing
+[2025-08-15T19:53:12] feat: add dark mode support and theme selectors
