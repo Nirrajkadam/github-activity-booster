@@ -4,3 +4,4 @@
 [2025-08-15T19:53:12] feat: add dark mode support and theme selectors
 [2025-08-22T15:13:02] style: format CSS stylesheets and responsive grids
 [2025-08-25T19:20:17] feat: add export to PDF/CSV option in dashboard
+[2025-08-25T14:13:28] refactor: clean up utility functions and format imports
