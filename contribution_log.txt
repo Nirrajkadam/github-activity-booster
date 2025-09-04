@@ -10,3 +10,4 @@
 [2025-08-31T11:46:16] feat: add export to PDF/CSV option in dashboard
 [2025-09-02T11:35:12] fix: resolve CORS policy error on express backend
 [2025-09-03T20:05:58] feat: add drag-and-drop file uploader component
+[2025-09-04T16:39:35] test: implement integration tests for checkout flow
