@@ -20,3 +20,4 @@
 [2025-09-16T10:07:14] perf: add lazy loading for dashboard chart components
 [2025-09-18T16:56:23] refactor: modularize server route controllers
 [2025-09-18T15:52:37] feat: add drag-and-drop file uploader component
+[2025-09-25T09:43:38] refactor: migrate state management to context providers
