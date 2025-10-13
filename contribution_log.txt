@@ -26,3 +26,4 @@
 [2025-10-01T14:35:57] fix: handle null exceptions in analytics dashboard API
 [2025-10-07T14:27:00] feat: implement user authentication and jwt sessions
 [2025-10-07T10:13:59] feat: add export to PDF/CSV option in dashboard
+[2025-10-13T19:35:08] fix: resolve CORS policy error on express backend
