@@ -36,3 +36,4 @@
 [2025-11-10T13:40:55] style: clean up layout alignments and margin spacing
 [2025-11-11T16:11:55] docs: update API endpoints documentation in README
 [2025-11-14T17:43:02] test: add unit tests for billing database models
+[2025-11-17T18:34:55] test: implement integration tests for checkout flow
