@@ -40,3 +40,4 @@
 [2025-11-18T11:47:23] fix: resolve memory leak in websocket event loops
 [2025-12-01T11:11:16] feat: add drag-and-drop file uploader component
 [2025-12-02T21:34:14] docs: document environment variables in config template
+[2025-12-09T21:45:40] test: add mock tests for third-party payment gateway
