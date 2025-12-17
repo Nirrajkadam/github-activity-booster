@@ -44,3 +44,4 @@
 [2025-12-11T19:24:23] feat: add export to PDF/CSV option in dashboard
 [2025-12-11T13:47:43] docs: document environment variables in config template
 [2025-12-15T16:09:01] feat: add dark mode support and theme selectors
+[2025-12-17T09:45:38] perf: add lazy loading for dashboard chart components
