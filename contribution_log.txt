@@ -52,3 +52,4 @@
 [2025-12-26T17:04:34] chore: configure ESLint and Prettier rules
 [2025-12-31T17:40:19] chore: configure ESLint and Prettier rules
 [2026-01-04T18:59:25] fix: resolve memory leak in websocket event loops
+[2026-01-08T17:42:34] docs: update API endpoints documentation in README
