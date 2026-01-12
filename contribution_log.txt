@@ -55,3 +55,4 @@
 [2026-01-08T17:42:34] docs: update API endpoints documentation in README
 [2026-01-09T19:24:14] feat: implement user authentication and jwt sessions
 [2026-01-09T09:50:00] feat: implement search auto-complete with debouncing
+[2026-01-12T20:26:26] chore: update dependencies and patch security alerts
