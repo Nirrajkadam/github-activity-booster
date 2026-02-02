@@ -62,3 +62,4 @@
 [2026-01-21T11:29:17] docs: write deployment guide for staging and production
 [2026-01-22T09:20:55] refactor: clean up utility functions and format imports
 [2026-01-28T13:14:19] refactor: clean up utility functions and format imports
+[2026-02-02T15:17:19] feat: add export to PDF/CSV option in dashboard
