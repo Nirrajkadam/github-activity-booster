@@ -68,3 +68,4 @@
 [2026-02-05T17:29:52] fix: correct token expiration handling in auth client
 [2026-02-10T15:08:07] docs: write deployment guide for staging and production
 [2026-02-24T18:26:19] style: clean up layout alignments and margin spacing
+[2026-02-24T09:11:22] fix: validation bugs on client registration forms
