@@ -84,3 +84,4 @@
 [2026-03-18T18:38:44] refactor: migrate state management to context providers
 [2026-03-19T20:51:09] perf: add lazy loading for dashboard chart components
 [2026-03-20T21:15:17] fix: validation bugs on client registration forms
+[2026-03-20T11:49:52] fix: resolve memory leak in websocket event loops
