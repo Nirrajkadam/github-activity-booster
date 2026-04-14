@@ -92,3 +92,4 @@
 [2026-04-08T10:40:13] style: clean up layout alignments and margin spacing
 [2026-04-10T12:02:29] test: add unit tests for billing database models
 [2026-04-12T18:41:06] chore: configure ESLint and Prettier rules
+[2026-04-14T21:41:37] feat: add export to PDF/CSV option in dashboard
