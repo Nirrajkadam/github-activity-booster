@@ -95,3 +95,4 @@
 [2026-04-14T21:41:37] feat: add export to PDF/CSV option in dashboard
 [2026-04-16T12:38:08] docs: write deployment guide for staging and production
 [2026-04-17T11:19:08] refactor: migrate state management to context providers
+[2026-04-21T13:12:31] docs: update API endpoints documentation in README
