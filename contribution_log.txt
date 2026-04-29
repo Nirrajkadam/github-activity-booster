@@ -98,3 +98,4 @@
 [2026-04-21T13:12:31] docs: update API endpoints documentation in README
 [2026-04-21T15:39:36] perf: optimize database query index execution times
 [2026-04-21T10:25:08] docs: document environment variables in config template
+[2026-04-29T12:13:33] refactor: migrate state management to context providers
