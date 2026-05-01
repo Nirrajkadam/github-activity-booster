@@ -101,3 +101,4 @@
 [2026-04-29T12:13:33] refactor: migrate state management to context providers
 [2026-05-01T13:38:51] docs: update API endpoints documentation in README
 [2026-05-01T18:41:13] feat: add dark mode support and theme selectors
+[2026-05-01T13:17:07] fix: correct token expiration handling in auth client
