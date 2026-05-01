@@ -100,3 +100,4 @@
 [2026-04-21T10:25:08] docs: document environment variables in config template
 [2026-04-29T12:13:33] refactor: migrate state management to context providers
 [2026-05-01T13:38:51] docs: update API endpoints documentation in README
+[2026-05-01T18:41:13] feat: add dark mode support and theme selectors
