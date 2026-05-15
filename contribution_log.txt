@@ -108,3 +108,4 @@
 [2026-05-13T16:04:04] style: format CSS stylesheets and responsive grids
 [2026-05-13T21:01:49] docs: document environment variables in config template
 [2026-05-14T13:53:25] feat: add export to PDF/CSV option in dashboard
+[2026-05-15T15:33:46] fix: handle null exceptions in analytics dashboard API
