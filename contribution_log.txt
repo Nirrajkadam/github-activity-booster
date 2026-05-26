@@ -113,3 +113,4 @@
 [2026-05-25T13:03:19] feat: implement user authentication and jwt sessions
 [2026-05-25T14:21:55] test: add unit tests for billing database models
 [2026-05-26T16:15:45] chore: update dependencies and patch security alerts
+[2026-05-26T17:05:32] docs: document environment variables in config template
