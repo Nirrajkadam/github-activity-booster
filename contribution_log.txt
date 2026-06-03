@@ -118,3 +118,4 @@
 [2026-05-29T09:10:35] refactor: clean up utility functions and format imports
 [2026-05-29T12:40:59] style: clean up layout alignments and margin spacing
 [2026-06-03T10:58:43] fix: correct token expiration handling in auth client
+[2026-06-03T18:09:12] test: implement integration tests for checkout flow
