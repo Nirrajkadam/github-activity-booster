@@ -134,3 +134,4 @@
 [2026-07-09T10:38:30] perf: add lazy loading for dashboard chart components
 [2026-07-10T13:26:32] fix: handle null exceptions in analytics dashboard API
 [2026-07-13T11:53:08] feat: implement search auto-complete with debouncing
+[2026-07-14T19:22:52] docs: document environment variables in config template
